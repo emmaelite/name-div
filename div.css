@@ -1,0 +1,32 @@
+div {
+    float: left;
+    padding: 20px;
+    width: 200px;
+}
+.div1 {
+    background: red;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 35px;
+}
+.div2 {
+    background: green;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 35px;
+}
+.div3 {
+    background: yellow;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 35px;
+}
+.div4 {
+    background:blue;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 35px;
+]
+h1 {
+    text-align: center;
+}
